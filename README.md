@@ -1,1 +1,1 @@
-# ux-article-images
+# External images for design articles.
